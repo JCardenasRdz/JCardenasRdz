@@ -4,7 +4,8 @@ Julio Cárdenas-Rodríguez is a Research Assistant Professor of Biomedical Engin
 His professional interest is to construct data-driven methods to improve the diagnosis and treatment of disease at a low cost.  
 
 ## Professional Projects
--------------------------    
+-------------------------
+
 ### 1. Using the Maltose (sugar in beer) to differentiate tumors and infections in the lung
 **Status:** In Progress
 
@@ -16,7 +17,7 @@ His professional interest is to construct data-driven methods to improve the dia
 **Conclusion:** L 
 
 ### 4. Improving the repeatibility of DCE MRI using algorithms invented at my laboratory [Link to Repository](https://github.com/JCardenasRdz/Gage-repeatability-DCE-MRI)  
-**Status:** Completed  
+> **Status:** Completed.  
 **Conclusion:** Linearization of the pharmacokinetic models models used for the analysis of clincial DCE MRI improves their repeatibility by more than 2X.
 
 ## Publications
