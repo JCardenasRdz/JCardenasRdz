@@ -4,7 +4,8 @@ Julio Cárdenas-Rodríguez is a Research Assistant Professor of Biomedical Engin
 His professional interest is to construct data-driven methods to improve the diagnosis and treatment of disease at a low cost.  
 
 ## Professional Projects
--------------------------
+-------------------------   
+
 ### 1. Using the Maltose (sugar in beer) to differentiate tumors and infections in the lung
 
 ### 2. Measure the pH of tumors using a metabolite of Aspirin and Machine Learning
