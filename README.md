@@ -5,5 +5,10 @@ His professional interest is to construct data-driven methods to improve the dia
 ## Projects
 --------
 1. Using the sugar in beer to differentiate tumors and infections in the lung
+
 2. Measure the pH of tumors using a metabolite of Aspirin and Machine Learning
+
 3. Predicti response to chemotherapy using machine learning and standard-of-care MRI.
+
+## Publications
+Follow link to CardenasLab.org: [Publications](http://www.cardenaslab.org/publications.html)
