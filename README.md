@@ -10,7 +10,15 @@ His professional interest is to construct data-driven methods to improve the dia
 
 3. Predicting response to chemotherapy using machine learning and standard-of-care MRI.
 
-4. Improving the repeatibility of DCE MRI using algorithms invented at my laboratory: [Link](https://github.com/JCardenasRdz/Gage-repeatability-DCE-MRI)
+### Improving the repeatibility of DCE MRI using algorithms invented at my laboratory: [Link](https://github.com/JCardenasRdz/Gage-repeatability-DCE-MRI)
+Purpose
+To determine the effect that linearization has on the repeatability of the linear (LRRM) and non-linear (NRRM) reference region models for DCE MRI, and compare their repeatability to semi-quantitative methods of analysis.
+
 
 ## Publications
 Follow link to CardenasLab.org: [Publications](http://www.cardenaslab.org/publications.html)
+
+## Personal Projects
+--------
+1. Learn Python
+2. Learn Julia
