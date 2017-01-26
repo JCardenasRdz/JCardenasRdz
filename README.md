@@ -22,5 +22,6 @@ Follow link to CardenasLab.org: [Publications](http://www.cardenaslab.org/public
 
 ## Personal Projects
 -------------------------
-1. Learn Python
-2. Learn Julia
+1. Data Science Carreer Track at Spring Board: [Link](https://github.com/JCardenasRdz/SpringBoard/blob/master/README.md)
+2. Learn Python
+3. Learn Julia
