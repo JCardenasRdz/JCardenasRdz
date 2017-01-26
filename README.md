@@ -3,16 +3,15 @@ Julio Cárdenas-Rodríguez is a Research Assistant Professor of Biomedical Engin
 His professional interest is to construct data-driven methods to improve the diagnosis and treatment of disease at a low cost.  
 
 ## Professional Projects
---------
 1. Using the Maltose (sugar in beer) to differentiate tumors and infections in the lung
 
 2. Measure the pH of tumors using a metabolite of Aspirin and Machine Learning
 
 3. Predicting response to chemotherapy using machine learning and standard-of-care MRI.
 
-### Improving the repeatibility of DCE MRI using algorithms invented at my laboratory: [Link](https://github.com/JCardenasRdz/Gage-repeatability-DCE-MRI)
-Purpose
-To determine the effect that linearization has on the repeatability of the linear (LRRM) and non-linear (NRRM) reference region models for DCE MRI, and compare their repeatability to semi-quantitative methods of analysis.
+### 4. Improving the repeatibility of DCE MRI using algorithms invented at my laboratory
+**Purpose:**To determine the effect that linearization has on the repeatability of the linear (LRRM) and non-linear (NRRM) reference region models for DCE MRI, and compare their repeatability to semi-quantitative methods of analysis.    
+[Link to Repository](https://github.com/JCardenasRdz/Gage-repeatability-DCE-MRI)  
 
 
 ## Publications
