@@ -6,14 +6,17 @@ His professional interest is to construct data-driven methods to improve the dia
 ## Professional Projects
 -------------------------    
 ### 1. Using the Maltose (sugar in beer) to differentiate tumors and infections in the lung
+**Status:** In Progress
 
 ### 2. Measure the pH of tumors using a metabolite of Aspirin and Machine Learning
-**Purpose:** 
+**Purpose:**:
+
 ### 3. Predicting response to chemotherapy using machine learning and standard-of-care MRI.
-**Status:** Completed
-**Conclusion:** Linearization of the pharmacokinetic models models used for the analysis of clincial DCE MRI improves their repeatibility by more than 2X.
+**Status:** In Progress  
+**Conclusion:** L 
+
 ### 4. Improving the repeatibility of DCE MRI using algorithms invented at my laboratory [Link to Repository](https://github.com/JCardenasRdz/Gage-repeatability-DCE-MRI)  
-**Status:** Completed
+**Status:** Completed  
 **Conclusion:** Linearization of the pharmacokinetic models models used for the analysis of clincial DCE MRI improves their repeatibility by more than 2X.
 
 ## Publications
