@@ -1,3 +1,4 @@
+![Julio](https://github.com/JCardenasRdz/JCardenasRdz.github.io/blob/master/Profile_ulio.png)
 ## Bio
 -------------------------
 Julio Cárdenas-Rodríguez is a Research Assistant Professor of Biomedical Engineering & Radiology at the University of Arizona Cancer Center.  He was born and raised in Mexico City, México. He moved to the U.S. in 2007 to pursue a PhD after working several years performing research in the private sector at Merck & Co. He joined the University of Arizona as a Research Professor in October of 2013.
