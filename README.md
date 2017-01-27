@@ -27,7 +27,7 @@ Follow link to CardenasLab.org: [Publications](http://www.cardenaslab.org/public
 ## Personal Projects
 -------------------------
 
-### 1. Data Science Carreer Track at Spring Board: [Link](https://github.com/JCardenasRdz/SpringBoard/blob/master/README.md)
+### 1. Data Science Career Track at Spring Board: [Link](https://github.com/JCardenasRdz/SpringBoard/blob/master/README.md)
 > **Status:** In Progress
 
 ### 2. Learn Python
