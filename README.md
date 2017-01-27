@@ -7,13 +7,13 @@ His professional interest is to construct data-driven methods to improve the dia
 -------------------------
 
 ### 1. Using the Maltose (sugar in beer) to differentiate tumors and infections in the lung
-**Status:** In Progress
+> **Status:** In Progress
 
 ### 2. Measure the pH of tumors using a metabolite of Aspirin and Machine Learning
-**Purpose:**:
+> **Status:** In Progress
 
 ### 3. Predicting response to chemotherapy using machine learning and standard-of-care MRI.
-**Status:** In Progress  
+> **Status:** In Progress  
 **Conclusion:** L 
 
 ### 4. Improving the repeatibility of DCE MRI using algorithms invented at my laboratory [Link to Repository](https://github.com/JCardenasRdz/Gage-repeatability-DCE-MRI)  
@@ -26,6 +26,12 @@ Follow link to CardenasLab.org: [Publications](http://www.cardenaslab.org/public
 
 ## Personal Projects
 -------------------------
-1. Data Science Carreer Track at Spring Board: [Link](https://github.com/JCardenasRdz/SpringBoard/blob/master/README.md)
-2. Learn Python
-3. Learn Julia
+### 1. Data Science Carreer Track at Spring Board: [Link](https://github.com/JCardenasRdz/SpringBoard/blob/master/README.md)
+> **Status:** In Progress
+
+### 2. Learn Python
+> **Status:** In Progress
+
+### 3. Learn Julia
+> **Status:** In Progress
+
