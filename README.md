@@ -1,6 +1,4 @@
-![Julio](https://github.com/JCardenasRdz/JCardenasRdz.github.io/blob/master/Profile_ulio.png)  
-
-![alt tag](https://raw.githubusercontent.com/JCardenasRdz/JCardenasRdz.github.io/blob/master/Profile_ulio.png)  
+![Julio](https://github.com/JCardenasRdz/JCardenasRdz.github.io/blob/master/Profile_ulio.png?raw=true)  
 
 ## Bio
 -------------------------
